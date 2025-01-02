@@ -10,7 +10,7 @@ Languages
 - HTML and CSS
 - Java Script
 - Python
-- PHP and MySQL (in Progress)
+- PHP and MySQL
 
 Frameworks
 ---
